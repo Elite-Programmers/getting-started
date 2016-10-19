@@ -1,6 +1,6 @@
 This is a guide to get started with GitHub and be able to Collaborate with other programmers.
 
------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 Kindly install the following software to jump start your GitHub experience and to be able to contribute on Elite.
 
 1. Install Git (Distributed Version Controlling System)
@@ -22,7 +22,7 @@ https://desktop.github.com/
 
 A GUI tool used to connect and extract content from a GitHub Repository.
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 After installing the following software, kindly look into the following tutorial.
 
 1. Git
@@ -40,7 +40,7 @@ Atom is a very powerful text editor, and knowing its capability will definately 
 efficiently.
 Atom is a product created by GitHub.
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 In order to download the following Repository into your system.
 
@@ -51,7 +51,7 @@ git clone git@github.com:Elite-Programmers/getting-started.git
 ------------------------------------------------------------------------------------------------------------------------
 Last but not least ...
 
-Please google Linus Torvalds. The create of linux, Git and other amazing open sources.
+Please google "Linus Torvalds". The create of linux, Git and other amazing open sources.
 
 regards
 krishna
