@@ -46,7 +46,7 @@ In order to download the following Repository into your system.
 
 open git bash/powershell/command prompt/teminal and type
 
-git clone
+git clone git@github.com:Elite-Programmers/getting-started.git
 
 ------------------------------------------------------------------------------------------------------------------------
 Last but not least ...
