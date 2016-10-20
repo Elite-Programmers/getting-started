@@ -36,7 +36,7 @@ Git.
 
 http://flight-manual.atom.io/
 
-Atom is a very powerful text editor, and knowing its capability will definately help you code more
+Atom is a very powerful text editor, and knowing its capability will definitely help you code more
 efficiently.
 Atom is a product created by GitHub.
 
@@ -48,10 +48,10 @@ open git bash/powershell/command prompt/teminal and type
 
 git clone git@github.com:Elite-Programmers/getting-started.git
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 Last but not least ...
 
-Please google "Linus Torvalds". The create of linux, Git and other amazing open sources.
+Please google "Linus Torvalds". The creator of linux, Git and other amazing open sources.
 
 regards
 krishna
