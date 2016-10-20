@@ -44,7 +44,7 @@ Atom is a product created by GitHub.
 
 In order to download the following Repository into your system.
 
-open git bash/powershell/command prompt/teminal and type
+open git bash/power shell/command prompt/terminal and type
 
 git clone git@github.com:Elite-Programmers/getting-started.git
 
