@@ -51,7 +51,7 @@ In order to download the following Repository into your system.
 
 open git bash/power shell/command prompt/terminal and type
 
-git clone git@github.com:Elite-Programmers/getting-started.git
+git clone https://github.com/Elite-Programmers/getting-started.git
 
 -----------------------------------------------------------------------------------------------------------
 Last but not the least ...
