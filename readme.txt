@@ -43,7 +43,12 @@ http://flight-manual.atom.io/
 
 Atom is a very powerful text editor, and knowing its capability will definitely help you code more
 efficiently.
-Atom is a product created by GitHub.
+
+3. GitHub tutorial
+
+https://guides.github.com/activities/hello-world/
+
+This is a simple guide on how to collaborate with other using github. It starts with a simple hello world example.
 
 -----------------------------------------------------------------------------------------------------------
 
