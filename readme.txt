@@ -11,14 +11,18 @@ Git is a free and open source distributed version control system designed to han
 Git is easy to learn and has a tiny footprint with lightning fast performance.
 As a distributed revision control system it is aimed at speed, data integrity and support for distributed, non-linear workflows.
 
+Note : Stick to the default settings during installation.
 
-2. Install Atom Text Editor
+
+2. Install Atom Text Editor (Recommended)
 
 https://atom.io/
 
 Atom is a free and open-source text and source code editor for OS X, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 It is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained.
 It is highly recommended to install a community package called "git-plus" after installing atom(to do so: goto File->Settings->Install search for "git-plus" and hit Install button).
+
+Note : Please try adding useful atom-packages to improve your experience with Atom. (search for "popular atom packages")
 
 
 3. GitHub Desktop
@@ -35,7 +39,7 @@ After installing the above mentioned software, kindly look into the following tu
 https://try.github.io/levels/1/challenges/1
 
 This tutorial walks you through using Git Version controlling system and how to interact with GitHub using
-Git.
+Git. This tutorial also walks you through using git locally i.e on local files.
 
 2. Atom Documentation
 
@@ -63,6 +67,11 @@ Last but not the least ...
 
 Please google "Linus Torvalds". The creator of linux, Git and other amazing open sources.
 
+Contact us @
+Krishna (theja.vanka@gmail.com)
+Manjunath (mssangashetty@gmail.com)
+
 regards
-Krishna & Manjunath
+theja-vanka
+Manjunath-SS
 Admin
