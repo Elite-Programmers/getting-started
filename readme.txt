@@ -66,7 +66,7 @@ git clone https://github.com/Elite-Programmers/getting-started.git
 
 -----------------------------------------------------------------------------------------------------------
 We are also pleased to introduce our projects into this group. In which you are free to create your own
-groups and contribute.
+teams and contribute.
 
 Last but not the least ...
 
