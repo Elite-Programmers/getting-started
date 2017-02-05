@@ -24,6 +24,8 @@ It is highly recommended to install a community package called "git-plus" after 
 
 Note : Please try adding useful atom-packages to improve your experience with Atom. (search for "popular atom packages")
 
+Alternative Text Editors : Visual Studio Code, Sublime Text 3.
+
 
 3. GitHub Desktop
 
@@ -63,6 +65,9 @@ open git bash/power shell/command prompt/terminal and type
 git clone https://github.com/Elite-Programmers/getting-started.git
 
 -----------------------------------------------------------------------------------------------------------
+We are also pleased to introduce our projects into this group. In which you are free to create your own
+groups and contribute.
+
 Last but not the least ...
 
 Please google "Linus Torvalds". The creator of linux, Git and other amazing open sources.
